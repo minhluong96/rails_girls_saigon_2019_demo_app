@@ -6,7 +6,7 @@ Eiser - Credit: https://colorlib.com/wp/template/eiser/
 - Static: https://repl.it/@minhluong96/Html-Templates
 - Dynamic:
   - Github: https://github.com/minhluong96/rails-girl-shopping-demo
-  - Repl.it:
+  - Repl.it: https://repl.it/@minhluong96/ShoppingWebsite
 
 ## Static page
 [x] Add html to page
